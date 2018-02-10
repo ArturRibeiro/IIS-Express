@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scorponok.Web.Api", "src\Scorponok.Web.Api\Scorponok.Web.Api.csproj", "{736EFB61-B5B9-4702-B18A-008FE783542C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scorponok.Web.Api.Unit.Test.Integration", "src\Scorponok.Web.Api.Unit.Test.Integration\Scorponok.Web.Api.Unit.Test.Integration.csproj", "{8CF07A08-C200-450A-A673-2FBDC97B965D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{736EFB61-B5B9-4702-B18A-008FE783542C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{736EFB61-B5B9-4702-B18A-008FE783542C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{736EFB61-B5B9-4702-B18A-008FE783542C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{736EFB61-B5B9-4702-B18A-008FE783542C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CF07A08-C200-450A-A673-2FBDC97B965D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CF07A08-C200-450A-A673-2FBDC97B965D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CF07A08-C200-450A-A673-2FBDC97B965D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CF07A08-C200-450A-A673-2FBDC97B965D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C8368A3-B7D0-4E37-8EA9-F9565DCFA7B9}
+	EndGlobalSection
+EndGlobal
